@@ -1,0 +1,20 @@
+
+Mon Tue Wed Thu Fri
+1100-2100
+Sat Sun
+1200-1900
+
+Mon Tue Wed Thu Fri
+0900-1800
+Sat
+0900-1900
+
+Mon Tue Wed Thu Fri Sun
+1200-2000
+Sat
+0900-1900
+
+Tue Wed Thu Fri Sat
+1200-1900
+Sun
+1000-1900
